@@ -1,0 +1,5 @@
+site_name: Blogware
+theme: readthedocs
+site_url: https://docs.blogwa.re/
+repo_url: https://github.com/blogwa-re/
+edit_uri: !!null null

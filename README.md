@@ -1,2 +1,1 @@
-# docs
-Documentation for Blogware
+# Blogware Documentation
